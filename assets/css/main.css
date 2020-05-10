@@ -3142,3 +3142,6 @@ input, select, textarea {
 	.organizationlogo{
 		width: 300px !important;
 	}
+	.projectdetails{
+		text-align: initial !important;
+	}
