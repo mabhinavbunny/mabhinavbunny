@@ -3136,3 +3136,9 @@ input, select, textarea {
 					}
 
 	}
+	.forward,.backward{
+		display: none !important;
+	}
+	.organizationlogo{
+		width: 300px !important;
+	}
